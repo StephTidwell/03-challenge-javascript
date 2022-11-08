@@ -6,4 +6,3 @@ This challenge required me to develop an application that an employee could use 
 file:///Users/Stephanie/Desktop/Javascript/02-Challenge/Develop/index.html
 ## Screenshot
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/113862737/200472318-2da47123-a17e-4af8-ab9d-5ad82e6832ca.png)
-<img src="https://user-images.githubusercontent.com/113862737/200472318-2da47123-a17e-4af8-ab9d-5ad82e6832ca.png">
